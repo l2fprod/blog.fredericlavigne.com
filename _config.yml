@@ -2,7 +2,7 @@
 
 # Build settings
 markdown: kramdown
-theme: alembic-jekyll-theme
+#theme: alembic-jekyll-theme
 
 plugins:
   - jekyll-feed
