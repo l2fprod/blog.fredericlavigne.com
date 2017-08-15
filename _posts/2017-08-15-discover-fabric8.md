@@ -1,6 +1,6 @@
 ---
 title:  "And then Fabric8 came"
-date:   2017-08-15 22:22:00 +0200
+date:   2017-08-14 22:22:00 +0200
 category: kubernetes
 feature_text: |
   ## A journey
